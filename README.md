@@ -3,7 +3,7 @@
 1. first we tried that can we get apis for live data for movies but we didnt got any
 2. Then we tried omdb dataset but it doesnt give any live info
 3. we tried scraping the ticket booking webpages but that was too lengthy
-4. Then we finally got technique that give live data of movies in from every corner of india , the code for is written in helper_funtions.py
+4. Then we finally got technique that gives live data of movies in from every corner of india , the code for is written in helper_funtions.py
 5. then we tried using llama3.2 but it was not great model the accuracy was not good and the time taken to complete the request was too much
 6. then we somehow arranged chatgpt 4 api but that too was challenging and it got rate limit and we were unable to get good outcomes from it
 7. Then last we again fall back to the local model , and its slow , but we the great thing is that we can get ***real time data of movies*** and we can retrive data of every city in India
