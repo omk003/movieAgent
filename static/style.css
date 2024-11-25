@@ -1,0 +1,104 @@
+.body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+.background-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('background.png') no-repeat center center fixed;
+    background-size: cover;
+    /* opacity: 0.3; */
+    filter: blur(4px);
+    z-index: -1;  /* Ensures it stays behind other content */
+}
+
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: bottom;
+    width: 650px;
+    height: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#chat-box {
+    flex-grow: 1;
+    overflow-y: auto;
+    background-color: #202020;
+    color: white;
+    padding: 650px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#user-input, button {
+    flex: none;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 5px;
+}
+
+#user-input {
+    width: calc(100% - 24px);  /* Full width minus padding */
+    background-color: #333;
+    color: #fff;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;  /* Darker blue on hover for visual feedback */
+}
+
+#chat-box {
+    flex-grow: 1;
+    overflow-y: auto;
+    background-color: #202020;
+    color: white;
+    padding: 10px;  /* Adjusted from 120px which is too much */
+    border-radius: 10px;
+}
+
+.user-message, .bot-message {
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    display: block;  /* Ensures each message appears on a new line */
+    max-width: 80%;  /* Ensures messages do not stretch too long */
+}
+
+.user-message {
+    background-color: #007bff;  /* User messages are blue */
+    align-self: flex-end;
+    margin-left: auto;  /* Aligns user messages to the right */
+}
+
+.bot-message {
+    background-color: #666;  /* Bot messages are grey */
+    align-self: flex-start;
+    margin-right: auto;  /* Aligns bot messages to the left */
+}
