@@ -1,0 +1,3666 @@
+{
+    "bengaluru": {
+        "Bhairathi Ranagal": {
+            "movie_name": "Bhairathi Ranagal",
+            "movie_type": "Action, Drama, Crime",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Lakshmi Cinemas A/C 4K, Gottigere, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Balaji 4K Atmos 3D Cinema, Chikkalasandra Uttarahalli Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "20:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Srinivasa Theatre AC 4K Dolby Atmos, Kadugodi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Lido Mall, Ulsoor, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Vinayaka Cinemas A/C DTS 4K, Varthur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Gowrishankar Dolby 7.1 RGB Laser Attibele, Next To Ganesh Temple, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Balaji Theatre, Tavarekere (Next To Lakshmi Theatre), Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Narthaki & Sapna 4K Dolby 7.1 Digital Cinema, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Manasa RGB Laser Atmos Cinemas, Konankunte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Shree Garuda Swagath Mall, Jayanagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Amaran": {
+            "movie_name": "Amaran",
+            "movie_type": "Action",
+            "cinemas": [
+                {
+                    "cinema_name": "Narthaki & Sapna 4K Dolby 7.1 Digital Cinema, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Vinayaka Cinemas 4K Dolby 11.5 A/C, Harinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Mechanic Rocky": {
+            "movie_name": "Mechanic Rocky",
+            "movie_type": "Action, Drama, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Srinivasa Cinema 4K Dolby Atmos, SG Palya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Balaji 4K Atmos 3D Cinema, Chikkalasandra Uttarahalli Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Srinivasa Theatre AC 4K Dolby Atmos, Kadugodi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Bhoomika Theatre 2K, Majestic, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Lido Mall, Ulsoor, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Vinayaka Cinemas A/C DTS 4K, Varthur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Vinayaka 4K A/C Dolby Atmos, Marathahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sandhya Theatre RGB Laser Atmos, Madivala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Manasa RGB Laser Atmos Cinemas, Konankunte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Shree Garuda Swagath Mall, Jayanagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Prithvi Theatre, Nagavara, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Sookshmadarshini": {
+            "movie_name": "Sookshmadarshini",
+            "movie_type": "Thriller, Family",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Srinivasa Cinema 4K Dolby Atmos, SG Palya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Vinayaka Cinemas A/C DTS 4K, Varthur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Galaxy Paradise,12th Cross Bommanahalli Post, Hongasandra",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Singham Again": {
+            "movie_name": "Singham Again",
+            "movie_type": "Action, Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Bhool Bhulaiyaa 3": {
+            "movie_name": "Bhool Bhulaiyaa 3",
+            "movie_type": "Horror, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Shree Garuda Swagath Mall, Jayanagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:35"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Bagheera [2024]": {
+            "movie_name": "Bagheera [2024]",
+            "movie_type": "Action",
+            "cinemas": [
+                {
+                    "cinema_name": "Goverdhan Theatre, Near Yeshwantpur Railway Station, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Gladiator II": {
+            "movie_name": "Gladiator II",
+            "movie_type": "Action, Adventure, Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:40"
+                        }
+                    ]
+                }
+            ]
+        },
+        "KA [2024]": {
+            "movie_name": "KA [2024]",
+            "movie_type": "Drama, Suspense",
+            "cinemas": [
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Kanguva": {
+            "movie_name": "Kanguva",
+            "movie_type": "Action, Adventure, Fantasy, Period",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Zebra": {
+            "movie_name": "Zebra",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Siddalingeshwara A/C 4K 3D, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Akash Cinemas, Laggere, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Manasa RGB Laser Atmos Cinemas, Konankunte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Shree Garuda Swagath Mall, Jayanagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Vinayaka Cinemas 4K Dolby 11.5 A/C, Harinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Prithvi Theatre, Nagavara, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Wicked": {
+            "movie_name": "Wicked",
+            "movie_type": "Musical",
+            "cinemas": [
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                }
+            ]
+        },
+        "The Sabarmati Report": {
+            "movie_name": "The Sabarmati Report",
+            "movie_type": "Drama, Historical",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                }
+            ]
+        },
+        "I want to talk": {
+            "movie_name": "I want to talk",
+            "movie_type": "Drama, Family",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Central Spirit Mall, Bellandur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Lucky Baskhar": {
+            "movie_name": "Lucky Baskhar",
+            "movie_type": "Thriller, Crime",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Aaram Arvindswamy": {
+            "movie_name": "Aaram Arvindswamy",
+            "movie_type": "Romance, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Santosh Theatre, Gandhinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Siddalingeshwara A/C 4K 3D, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Galleria Mall, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Shree Garuda Swagath Mall, Jayanagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Maryade Prashne": {
+            "movie_name": "Maryade Prashne",
+            "movie_type": "Drama, Family",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Siddalingeshwara A/C 4K 3D, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Mantri Square, Malleshwaram, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "The Wild Robot": {
+            "movie_name": "The Wild Robot",
+            "movie_type": "Animation",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:25"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Kal Ho Naa Ho": {
+            "movie_name": "Kal Ho Naa Ho",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Karan Arjun [1995]": {
+            "movie_name": "Karan Arjun [1995]",
+            "movie_type": "Action, Drama, Thriller",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis VIP Lulu Global Mall, Rajajinagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Central Mantri Junction, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Newfangled Miniplex, MG Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                }
+            ]
+        },
+        "All We Imagine as Light": {
+            "movie_name": "All We Imagine as Light",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Nexus The Forum Value Mall, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR MSR Elements Mall, Tanisandhra Main Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Brookefield Mall, Kundalahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "The Colors Within": {
+            "movie_name": "The Colors Within",
+            "movie_type": "Drama, Music, Animation",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Lulu Global Mall, Bengaluru, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Royal Meenakshi Mall, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Orion Avenue Mall, Banaswadi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Devaki Nandana Vasudeva": {
+            "movie_name": "Devaki Nandana Vasudeva",
+            "movie_type": "Action, Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Abhinay Theatre 2K Cinema, Gandhinagar, Bangalore",
+                    "showtimes": [
+                        {
+                            "showtime": "11:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Uptown, Old Madras Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Venom: The Last Dance": {
+            "movie_name": "Venom: The Last Dance",
+            "movie_type": "Action",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Superplex Forum Mall, Kanakapura Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:40"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Christmas Eve in Miller`s Point": {
+            "movie_name": "Christmas Eve in Miller`s Point",
+            "movie_type": "Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Directors Cut, Forum Rex Walk  Bridge Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "11:35"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda Mall, Magrath Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Hello Mummy": {
+            "movie_name": "Hello Mummy",
+            "movie_type": "Fantasy, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "Balaji Theatre, Tavarekere (Next To Lakshmi Theatre), Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Cinepolis SJR Spectrum (Central Mall), Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Srinivasa Cinema 4K Dolby Atmos, SG Palya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Kranthiveera Sangolli Rayanna": {
+            "movie_name": "Kranthiveera Sangolli Rayanna",
+            "movie_type": "History",
+            "cinemas": [
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Siddalingeshwara A/C 4K 3D, JP Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sharada Cinemas A/C, S.P Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Tenant": {
+            "movie_name": "Tenant",
+            "movie_type": "Thriller",
+            "cinemas": [
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Garuda, Yelahanka, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Orion Mall, Dr Rajkumar Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:25"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:40"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Nirangal Moondru": {
+            "movie_name": "Nirangal Moondru",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:05"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Lido Mall, Ulsoor, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX Megaplex Mall of Asia, Byatarayanapura, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "15:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Bhartiya Mall Of Bengaluru, Bhartiya City Mall, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:10"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Emakku Thozhil Romance": {
+            "movie_name": "Emakku Thozhil Romance",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:55"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Aura Park Square, Whitefield, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Love Reddy": {
+            "movie_name": "Love Reddy",
+            "movie_type": "Action, Romance, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:20"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:10"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Prabhutva": {
+            "movie_name": "Prabhutva",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis ETA Namma Mall, Binny Pete, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR GT World Mall, Magadi Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "18:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Movietime Cinemas YGR Signature Mall, RR Nagar, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Trailers Screening Show [IMAX]": {
+            "movie_name": "Trailers Screening Show [IMAX]",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Nexus (Formerly Forum), Koramangala, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:45"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR VR, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Parakramam": {
+            "movie_name": "Parakramam",
+            "movie_type": "Drama, Family",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:50"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "INOX SBR Horizon, Seegehalli Whitefield Hoskote Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "17:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Mandira": {
+            "movie_name": "Mandira",
+            "movie_type": "Thriller",
+            "cinemas": [
+                {
+                    "cinema_name": "Sharada Cinemas A/C, S.P Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Ugravathara": {
+            "movie_name": "Ugravathara",
+            "movie_type": "Action",
+            "cinemas": [
+                {
+                    "cinema_name": "Narthaki & Sapna 4K Dolby 7.1 Digital Cinema, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Anshu": {
+            "movie_name": "Anshu",
+            "movie_type": "Thriller",
+            "cinemas": [
+                {
+                    "cinema_name": "Miraj Cinemas TGN Lotus Elite Sunkadakatte, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:15"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "10:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Dvija": {
+            "movie_name": "Dvija",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Vaishnavi Sapphire Mall, Yashwantpur, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "12:50"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj": {
+            "movie_name": "Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj",
+            "movie_type": "Action, Drama, Period, Historical",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "The Great Gujarati Matrimony": {
+            "movie_name": "The Great Gujarati Matrimony",
+            "movie_type": "Drama, Romance",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Vega City, Bannerghatta Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "22:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Jamalaye Jibonto Bhanu": {
+            "movie_name": "Jamalaye Jibonto Bhanu",
+            "movie_type": "Drama, Fantasy, Comedy",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Dhai Aakhar": {
+            "movie_name": "Dhai Aakhar",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Phoenix Marketcity Mall, Whitefield Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "14:10"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Gulaabi": {
+            "movie_name": "Gulaabi",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Cinepolis Nexus Shantiniketan, Thigalarapalya, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "13:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Ishq [2012]": {
+            "movie_name": "Ishq [2012]",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "Srinivasa Theatre AC 4K Dolby Atmos, Kadugodi, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "cinema_name": "Sri Vinayaka 4K A/C Dolby Atmos, Marathahalli, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "19:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BTS : Behind The Scenes": {
+            "movie_name": "BTS : Behind The Scenes",
+            "movie_type": "Drama",
+            "cinemas": [
+                {
+                    "cinema_name": "PVR Global Mall, Mysore Road, Bengaluru",
+                    "showtimes": [
+                        {
+                            "showtime": "09:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

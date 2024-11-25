@@ -2,7 +2,7 @@ from llama_index.llms.ollama import Ollama
 from llama_index.core.agent import ReActAgent
 
 
-from web_scrapper import web_scrapper
+from dustbin.web_scrapper import web_scrapper
 from bs4 import BeautifulSoup
 import requests
 from fpdf import FPDF

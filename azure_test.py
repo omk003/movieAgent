@@ -18,10 +18,10 @@ llm = Ollama(
 # consuming too much tokens and not working on current tier of account
 # llm = AzureOpenAI(
 #     engine="gpt-4", 
-#     model="gpt-4", # Replace with your deployment name
-#     azure_endpoint="https://onkar-m3w3rptk-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-08-01-preview",  # Replace with your Azure endpoint
-#     api_key="BDt3HPZvl2uB02oSMSgLC4t95Lxkye8Odj4Fi0xwdxGgxwerxujkJQQJ99AKACHYHv6XJ3w3AAAAACOGC8rj",  # Replace with your Azure API key
-#     api_version="2024-10-21",  # Ensure the version matches your Azure configuration
+#     model="gpt-4", 
+#     azure_endpoint="https://onkar-m3w3rptk-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-08-01-preview", 
+#     api_key="################################################",  
+#     api_version="2024-10-21", 
 #     temperature=0.7,
 #     max_tokens=220,  # Adjust as needed
 # )
@@ -31,7 +31,7 @@ llm = Ollama(
 #     deployment_name="text-embedding-ada-002",
 #     model="text-embedding-ada-002", 
 #     azure_endpoint="https://onkar-m3w3rptk-eastus2.cognitiveservices.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2023-05-15",
-#     api_key="BDt3HPZvl2uB02oSMSgLC4t95Lxkye8Odj4Fi0xwdxGgxwerxujkJQQJ99AKACHYHv6XJ3w3AAAAACOGC8rj",
+#     api_key="######################################################################",
 #     api_version="2024-10-01-preview",
     
 # )

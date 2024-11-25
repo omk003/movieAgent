@@ -2,10 +2,10 @@ from llama_index.llms.ollama import Ollama
 from llama_index.core import VectorStoreIndex, PromptTemplate
 from llama_index.core.agent import ReActAgent
 from llama_index.core.tools import QueryEngineTool, ToolMetadata
-from movie_search import movie_search
-from movie_link_getter import get_movie_link
+from dustbin.movie_search import movie_search
+from dustbin.movie_link_getter import get_movie_link
 from dotenv import load_dotenv
-from movie_search_new import movie_search_new
+from dustbin.movie_search_new import movie_search_new
 import logging
 import sys
 

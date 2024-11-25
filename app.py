@@ -1,85 +1,82 @@
 from llama_index.llms.ollama import Ollama
-from llama_parse import LlamaParse
-from llama_index.core import (
-    VectorStoreIndex, 
-    SimpleDirectoryReader, 
-    PromptTemplate
-)
-from llama_index.core.embeddings import resolve_embed_model
+from llama_index.core import VectorStoreIndex, PromptTemplate
 from llama_index.core.agent import ReActAgent
-from llama_index.core.tools import QueryEngineTool, ToolMetadata
-from prompts import context
-from movie_link_getter import get_movie_link
+from get_theaters import cinema_showtime_reader
+from seats import seat_reader
 from dotenv import load_dotenv
+from movie_data_tool import movie_reader
+from flask import Flask, request, jsonify
 
-load_dotenv()
+llm = Ollama(
+            model="llama3.2",
+            request_timeout=500.0,
+            temperature=0.7
+        )
 
-def initialize_system():
-    llm = Ollama(
-        model="llama3.2",
-        request_timeout=250.0
-    )
-    
-    # parser = LlamaParse(
-    #     result_type="markdown"
-    # )
-    
-    return llm#, parser
+tools = [
+    movie_reader,
+    cinema_showtime_reader,
+    seat_reader,
+]
 
-# def create_index(llm, parser):
-#     # Configure file extraction
-#     file_extractor = {".pdf": parser}
-    
-#     # Load documents with correct parameters
-#     # documents = SimpleDirectoryReader(
-#     #     input_dir="./data",  # Changed from "./data" to input_dir="./data"
-#     #     file_extractor=file_extractor
-#     # ).load_data()
-    
-#     # Initialize embedding model
-#     #embed_model = resolve_embed_model("local:BAAI/bge-m3")
-    
-#     # Create vector index
-#     #vector_index = VectorStoreIndex.from_documents(
-#     #    documents,
-#     #    embed_model=embed_model
-#     #)
-    
-#     return vector_index
+agent = ReActAgent.from_tools(
+            tools,
+            llm=llm,
+            verbose=True,
+            context="""You are a helpful AI assistant that helps users find information about movies.
+            
+            To answer questions, you'll need to:
+            1. Think about what information you need
+            2. Use the available tools to get that information
+            3. Form a response based on the information
+            city name is bengaluru.
 
-def setup_agent(llm):
-    #query_engine = vector_index.as_query_engine(llm=llm)
-    
-    tools = [
-        get_movie_link,
-    ]
-    
-    agent = ReActAgent.from_tools(
-        tools,
-        llm=llm,
-        verbose=True,
-        context=context,
-        max_iterations=10
-    )
-    
-    return agent
+            if user asks for movie list use tool movie_reader,
+            if you are ask about cinema for particular movie then use cinema_reader tool and give input of movie name,
+            if you are asked about showtime by movie and cinema/theatres use the showtime_reader tool and give input movie_name and cinema.
+            
+            Follow this format EXACTLY:
+            Thought: I need to figure out what to do
+            Action: [the action to take]
+            Action Input: [the input to the action]
+            Observation: [the result of the action]
+            ... (repeat Thought/Action/Action Input/Observation as needed)
+            Thought: I now know the final answer
+            Final Answer: [your response to the human],
+            """,
+            max_iterations=10
+        )
 
-def main():
-    llm = initialize_system()
-    #vector_index = create_index(llm, parser)
-    agent = setup_agent(llm)
-    
-    while (prompt := input("Enter: (q for quit): ")) != "q":
-        try:
-            result = agent.query(prompt)
-            print(result)
-        except ValueError as e:
-            if str(e) == "Reached max iterations.":
-                print("Query resolution timeout. Please try a simpler query.")
-            else:
-                print(f"Error: {str(e)}")
-        except Exception as e:
-            print(f"Unexpected error: {str(e)}")
+# while (prompt := input("\nEnter query (q for quit): ").strip()) != "q":
+#             try:
+#                 result = agent.query(prompt)
+#                 print("\nResponse:", result)
+#             except Exception as e:
+#                 print(f"\nError processing query: {str(e)}")
+#                 print("Please try again with a different question.")
+
+
+# Create a Flask app
+app = Flask(__name__)
+
+@app.route("/", methods=["POST"])
+def process_query():
+  try:
+    # Get the user prompt from the request body
+    data = request.get_json()
+    prompt = data.get("prompt")
+
+    if not prompt:
+      return jsonify({"error": "Missing prompt in request body"}), 400
+
+    # Process the prompt using the agent
+    result = agent.query(prompt)
+
+    return jsonify({"response": result})
+
+  except Exception as e:
+    print(f"\nError processing query: {str(e)}")
+    return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    main()
+  app.run(debug=True)
