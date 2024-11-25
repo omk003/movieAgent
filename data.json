@@ -1,0 +1,634 @@
+{
+    "serverTime": 1732456082,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAMC40",
+                "frmtId": "IoSKSbPRK",
+                "name": "Bhool Bhulaiyaa 3",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Bhool-Bhulaiyaa-3--705x750-fe7ef700-b996-11ed-a90c-c98d5cd1d8df.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/BB3--8c1b4370-9456-11ef-a253-33f238ee5f34.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/Bhool-Bhulaiyaa-3---200c2320-b997-11ed-92d9-fdca4531a10a.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/Bhool-Bhulaiyaa-3--app-272a5780-b997-11ed-a90c-c98d5cd1d8df.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Bhool-Bhulaiyaa-3--1035%E2%80%8A%C3%97%E2%80%8A420-31925fb0-b997-11ed-92d9-fdca4531a10a.jpg",
+                "trailer": "https://youtu.be/6YMY62tMLUA",
+                "censor": "U/A",
+                "duration": 158,
+                "grn": [
+                    "Horror",
+                    "Comedy"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "None",
+                "rnr": {
+                    "hasUReview": 1,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 160474,
+                "label": "Bhool Bhulaiyaa 3",
+                "lang": "Hindi"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "₹ 100 - ₹ 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "₹ 200 - ₹ 300"
+                },
+                {
+                    "min": "300",
+                    "max": "500",
+                    "desc": "₹ 300 - ₹ 500"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1029157,
+                "pid": 1707,
+                "name": "INOX Reliance Mall, Garkheda, Aurangabad",
+                "address": "Garkheda, Gajanan Maharaj Mandir Road, Opposite Radhakrishna Mangal Karyalay, Aurangabad, Maharashtra 431001, India",
+                "pincode": "431001",
+                "lat": 19.865977,
+                "lon": 75.350015,
+                "cityId": 32,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/inox-circle%202-27a89af0-a41e-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "5": 1,
+                    "6": 1,
+                    "19": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174253,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1029157,
+                "city": "Aurangabad",
+                "clientId": "paytm",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "maharashtra",
+                "label": "INOX Reliance Mall, Garkheda, Aurangabad",
+                "sessionCount": 50
+            },
+            {
+                "id": 1029156,
+                "pid": 1707,
+                "name": "INOX Prozone Mall, Chilkalthana, Aurangabad",
+                "address": "Prozone Mall, API Corner P-80, Chikalthana Industrial Area, Aurangabad, Maharashtra 431210, India",
+                "pincode": "431210",
+                "lat": 19.877126,
+                "lon": 75.37131,
+                "cityId": 32,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/inox-circle%202-27a89af0-a41e-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "5": 1,
+                    "6": 1,
+                    "19": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174252,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1029156,
+                "city": "Aurangabad",
+                "clientId": "paytm",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "maharashtra",
+                "label": "INOX Prozone Mall, Chilkalthana, Aurangabad",
+                "sessionCount": 76
+            }
+        ],
+        "filterData": {
+            "minSTime": "16:00",
+            "maxSTime": "16:30",
+            "minPrice": 200,
+            "maxPrice": 430,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "None"
+            ],
+            "mLangs": [
+                "Hindi"
+            ],
+            "genres": [
+                "Horror",
+                "Comedy"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 2,
+            "showTimeList": [
+                "22:00",
+                "21:30"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Hindi"
+            ],
+            "priceRangeSet": [
+                "price_400_to_500",
+                "price_100_to_200",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "20:00",
+                    "eTime": "23:59",
+                    "desc": "8 PM to 11:59 PM",
+                    "dText": "After 8 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1029156,
+            1029157
+        ],
+        "sessionDates": [
+            "2024-11-24",
+            "2024-11-25",
+            "2024-11-26",
+            "2024-11-27",
+            "2024-11-28"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1029156": [
+                {
+                    "sid": "83374",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029156,
+                    "mid": "OAMC40",
+                    "fid": "IoSKSbPRK",
+                    "showTime": "2024-11-24T16:00",
+                    "closeTime": "2024-11-24T15:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "Club",
+                            "typeCode": "83374_CL",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 112,
+                            "price": 240,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "Executive",
+                            "typeCode": "83374_EX",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 220,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RR",
+                            "label": "Royale Recliners",
+                            "typeCode": "83374_RR",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 10,
+                            "price": 430,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "Royale",
+                            "typeCode": "83374_RY",
+                            "sType": "fixed",
+                            "sAvail": 73,
+                            "sTotal": 82,
+                            "price": 260,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 240,
+                    "avail": 226,
+                    "audi": "SCREEN 5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Hindi",
+                    "scrnFmt": "2D",
+                    "sndFmt": "None",
+                    "gnrs": [
+                        "Horror",
+                        "Comedy"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1029157": [
+                {
+                    "sid": "38038",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029157,
+                    "mid": "OAMC40",
+                    "fid": "IoSKSbPRK",
+                    "showTime": "2024-11-24T16:30",
+                    "closeTime": "2024-11-24T16:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "38038_CL",
+                            "sType": "fixed",
+                            "sAvail": 159,
+                            "sTotal": 165,
+                            "price": 220,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "38038_EX",
+                            "sType": "fixed",
+                            "sAvail": 56,
+                            "sTotal": 56,
+                            "price": 200,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RR",
+                            "label": "ROYALE RECLINERS",
+                            "typeCode": "38038_RR",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 30,
+                            "price": 430,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYALE",
+                            "typeCode": "38038_RY",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 50,
+                            "price": 240,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 301,
+                    "avail": 288,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Hindi",
+                    "scrnFmt": "2D",
+                    "sndFmt": "None",
+                    "gnrs": [
+                        "Horror",
+                        "Comedy"
+                    ],
+                    "statusColor": "G"
+                }
+            ]
+        }
+    }
+}

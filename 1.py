@@ -1,40 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
 import json
-
-# URL to scrape
-url = "https://paytm.com/movies/aurangabad"
-
-# Fetch the HTML content from the URL
-response = requests.get(url)
-required = response.text[22000:45000] 
-
-file_path = "data/scraping_code.txt"
-with open(file_path, "w") as file:
-    file.write(required) # Print the first 1000 characters
-
-
-# if response.status_code == 200:
-#     # Parse the fetched HTML using BeautifulSoup
-#     soup = BeautifulSoup(response.text, 'html.parser')
-    
-#     # Find the <ul> element with the specific class
-#     ul_element = soup.find('ul', class_='H5RunningMovies_gridWrapper__H4DAC')
-#     print(ul_element)
-#     # List to store movie names
-#     movie_names = []
-
-#     if ul_element:
-#         # Find all <script> tags with type="application/ld+json" inside this <ul>
-#         for script_tag in ul_element.find_all('script', type='application/ld+json'):
-#             json_data = script_tag.string
-#             if json_data:
-#                 # Parse JSON and extract movie name
-#                 data = json.loads(json_data)
-#                 if '@type' in data and data['@type'] == 'Movie' and 'name' in data:
-#                     movie_names.append(data['name'])
-
-#     # Print the extracted movie names
-#     print(movie_names)
-# else:
-#     print(f"Failed to fetch the URL. Status code: {response.status_code}")
+dict = {'movie_name': 'Bhool Bhulaiyaa 3', 'movie_type': 'Horror, Comedy', 'cinemas': [{'cinema_name': 'INOX Reliance Mall, Garkheda, Aurangabad', 'showtimes': [{'showtime': '22:00', 'screen': 'SCREEN 5', 'seats': {'seat_type': 'Club', 'available_seats': 107, 'total_seats': 112, 'price': 240}}, {'showtime': '22:00', 'screen': 'SCREEN 5', 'seats': {'seat_type': 'Executive', 'available_seats': 36, 'total_seats': 36, 'price': 220}}, {'showtime': '22:00', 'screen': 'SCREEN 5', 'seats': {'seat_type': 'Royale Recliners', 'available_seats': 10, 'total_seats': 10, 'price': 430}}, {'showtime': '22:00', 'screen': 'SCREEN 5', 'seats': {'seat_type': 'Royale', 'available_seats': 73, 'total_seats': 82, 'price': 260}}]}, {'cinema_name': 'INOX Prozone Mall, Chilkalthana, Aurangabad', 'showtimes': [{'showtime': '21:30', 'screen': 'SCREEN 1', 'seats': {'seat_type': 'CLUB', 'available_seats': 159, 'total_seats': 165, 'price': 220}}, {'showtime': '21:30', 'screen': 'SCREEN 1', 'seats': {'seat_type': 'EXECUTIVE', 'available_seats': 56, 'total_seats': 56, 'price': 200}}, {'showtime': '21:30', 'screen': 'SCREEN 1', 'seats': {'seat_type': 'ROYALE RECLINERS', 'available_seats': 28, 'total_seats': 30, 'price': 430}}, {'showtime': '21:30', 'screen': 'SCREEN 1', 'seats': {'seat_type': 'ROYALE', 'available_seats': 45, 'total_seats': 50, 'price': 240}}]}]}
+with open("./test/save_movie.json", "w") as outfile: 
+    json.dump(dict, outfile)

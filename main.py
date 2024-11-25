@@ -5,6 +5,7 @@ from llama_index.core.tools import QueryEngineTool, ToolMetadata
 from movie_search import movie_search
 from movie_link_getter import get_movie_link
 from dotenv import load_dotenv
+from movie_search_new import movie_search_new
 import logging
 import sys
 
@@ -28,11 +29,11 @@ def initialize_llm():
         logger.error(f"Failed to initialize LLM: {str(e)}")
         raise
 
-def setup_vector_index(llm):
+def setup_vector_index():
     """Set up the vector index with error handling."""
     try:
         logger.info("Initializing vector index...")
-        return movie_search()
+        return movie_search(), movie_search_new()
     except Exception as e:
         logger.error(f"Failed to create vector index: {str(e)}")
         raise
@@ -108,12 +109,13 @@ def main():
         logger.info("LLM initialized successfully")
 
         # Set up vector index
-        vector_index = setup_vector_index(llm)
-        query_engine = vector_index.as_query_engine(llm=llm)
+        vector_index , vector_index1= setup_vector_index()
+        #query_engine = vector_index.as_query_engine(llm=llm)
+        query_engine1 = vector_index1.as_query_engine(llm=llm)
         logger.info("Vector index and query engine created successfully")
 
         # Create tools and agent
-        tools = create_tools(query_engine)
+        tools = create_tools(query_engine1)
         agent = setup_agent(llm, tools)
         logger.info("Agent setup completed successfully")
 

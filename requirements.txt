@@ -112,3 +112,4 @@ urllib3==2.2.1
 uvicorn==0.29.0
 wrapt==1.16.0
 yarl==1.9.4
+llama-index-readers-json
