@@ -1,3 +1,11 @@
+
+# 📺 **PREVIEW**
+
+https://github.com/user-attachments/assets/59b168bf-eb21-4678-9b52-b05bb4a398ad
+
+
+
+
 # 🌙 **Welcome to Lunar-Bot** by **TeamUI**  
 Lunar-Bot is a cutting-edge tool designed to scrape live data from **Paytm Movies**, providing real-time updates on currently screening movies. 🎥 No third-party APIs are required—Lunar-Bot ensures complete independence and reliability.  
 
